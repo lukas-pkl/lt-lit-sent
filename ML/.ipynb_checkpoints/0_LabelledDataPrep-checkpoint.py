@@ -1,4 +1,4 @@
-lllll"""
+"""
 Script to label data for sentiment analysis
 
 Labels : 
